@@ -1,0 +1,26 @@
+{
+  "name": "nymbol",
+  "version": "0.0.0",
+  "description": "Symbol generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anhydride/nymbol.git"
+  },
+  "keywords": [
+    "Symbol",
+    "String",
+    "Generation",
+    "Public",
+    "Private"
+  ],
+  "author": "Anhydride",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anhydride/nymbol/issues"
+  },
+  "homepage": "https://github.com/anhydride/nymbol#readme"
+}
